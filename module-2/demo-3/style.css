@@ -1,0 +1,27 @@
+.style{
+    width: 50%;
+    height: 50vh;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(177,104,235,1) 45%, rgba(137,207,221,1) 95%);
+}
+.d-flex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+h2{
+    color: black;
+    font-size: 40px;
+    font-family: monospace;
+}
+button{
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.white{
+    color: white;
+}

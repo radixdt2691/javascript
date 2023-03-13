@@ -1,0 +1,10 @@
+input{
+    background: gray;
+    padding: 10px 30px;
+    cursor: pointer;
+}
+
+.in-css{
+    background: green;
+    color: white;
+}

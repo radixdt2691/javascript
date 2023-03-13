@@ -1,0 +1,11 @@
+.maindiv{
+    background-color: cornsilk;
+    width: 50%;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+}
+h2{
+    text-align: center;
+}
